@@ -1,0 +1,216 @@
+
+En esta actividad analizará la importancia de la comunicación en todos los ámbitos, sin embargo, se
+enfocará en el plano laboral, por lo que se requiere un análisis lo más exhaustivo posible acera del entorno
+comunicacional en el que usted se desenvuelve en interrelación con los diferentes públicos. Se espera que
+identifique las debilidades, necesidades y expectativas de los diferentes grupos de interés y presente
+propuesta de cambio que permita alcanzar un equilibrio efectivo para satisfacer a las partes, asegurando
+un ambiente que permita la fluidez de la comunicación de manera efectiva.
+Instrucciones para el desarrollo de la tarea:
+DIAGNÓSTICO DE COMUNICACIÓN EN ENTORNO LABORAL
+
+• Elegir situaciones comunicacionales de un área de trabajo o de manera general que se suscitan en la empresa donde labora.
+
+
+• Determinar aquellas falencias comunicacionales que se presentan y los motivos por los que se suscitan. Explicar con detalle.
+
+
+• Describir los ruidos y contextos que se presentan, basado en la información del proceso de comunicación ya revisado.
+
+
+• Describir cómo son las formas de comunicación que se desarrollan, con sus aciertos y desatinos; se recomienda que se describa cada uno de los elementos revisados para que la descripción sea minuciosa.
+
+
+• Presentar propuesta de mejora, con descripción de objetivos, estrategia y tiempos en los que se podrían desarrollar.
+
+
+• El informe deberá ser redactado de forma corrida, cuidando que las ideas sean completas y libres de cualquier tipo de error (redacción, ortografía, puntuación).
+
+• Consulte la rúbrica de evaluación para conocer los criterios con los que tu actividad será evaluada.
+
+
+
+/*rúbrica*/
+
+Identificación de Situaciones
+25 % de la calificación total
+
+Sobresaliente
+Excelente: El estudiante identifica con precisión las situaciones comunicacionales relevantes para el área de trabajo, cubriendo tanto contextos internos como externos y vinculando cada situación con impactos claros en la eficiencia y el clima laboral.
+
+25
+Competente
+Competente: Se identifican las principales situaciones comunicacionales, con ejemplos claros, aunque pueden faltar casos menos comunes o matices contextuales. Se justifica su relevancia para el proceso organizacional.
+
+18,75
+Aceptable
+Aceptable: Se mencionan algunas situaciones comunicacionales, pero la selección puede ser incompleta o genérica, sin vinculación explícita a contextos reales de la empresa.
+
+12,5
+Insuficiente
+Insuficiente: Las situaciones comunicacionales no quedan claras o son superficiales, sin conexión con la realidad organizacional ni con objetivos de mejora.
+
+6,25
+Análisis de Falencias
+25 % de la calificación total
+
+Sobresaliente
+Excelente: El análisis de falencias es profundo, describe causas raíz, diferentes niveles de ruido y presenta un listado detallado de motivos que generan problemas de comunicación.
+
+25
+Competente
+Competente: Identifica falencias principales y sus causas, explicando con ejemplos, pero podría profundizar más en las fuentes y en su impacto.
+
+18,75
+Aceptable
+Aceptable: Se mencionan falencias pero de forma general, sin describir causas o efectos con suficiente claridad.
+
+12,5
+Insuficiente
+Insuficiente: Falencias mal descritas o ausentes, con poco o ningún análisis de causas y consecuencias.
+
+6,25
+Descripción de Comunicaciones
+25 % de la calificación total
+
+Sobresaliente
+Excelente: Describe las formas de comunicación con todos los elementos (emisor, mensaje, canal, receptor, retroalimentación, contexto) y evalúa aciertos y errores con ejemplos precisos.
+
+25
+Competente
+Competente: Describe varias formas de comunicación y señala aciertos y desatinos, aunque puede faltar una revisión minuciosa de cada elemento.
+
+18,75
+Aceptable
+Aceptable: Describe al menos algunas formas de comunicación, pero la descripción carece de detalle en los elementos clave y su impacto.
+
+12,5
+Insuficiente
+Insuficiente: Descripción incompleta o errónea de las formas de comunicación, sin análisis de los elementos o de las consecuencias.
+
+6,25
+Propuesta de Mejora
+25 % de la calificación total
+
+Sobresaliente
+Excelente: Presenta una propuesta de mejora clara y accionable, con objetivos específicos, estrategias definidas y un cronograma realista, incluyendo responsables y métricas.
+
+25
+Competente
+Competente: Propone mejoras plausibles con objetivos y estrategias, pero el plan podría estar menos detallado en tiempos o indicadores de éxito.
+
+18,75
+Aceptable
+Aceptable: Propone una mejora, pero es vaga, sin objetivos claros, sin estrategia definida o sin cronograma verificable.
+
+12,5
+Insuficiente
+Insuficiente: No ofrece una propuesta de mejora viable o no se define un plan de acción.
+
+
+
+a actividad analizará la importancia de la comunicación en todos los ámbitos, sin embargo, se
+enfocará en el plano laboral, por lo que se requiere un análisis lo más exhaustivo posible acera del entorno
+comunicacional en el que usted se desenvuelve en interrelación con los diferentes públicos. Se espera que
+identifique las debilidades, necesidades y expectativas de los diferentes grupos de interés y presente
+propuesta de cambio que permita alcanzar un equilibrio efectivo para satisfacer a las partes, asegurando
+un ambiente que permita la fluidez de la comunicación de manera efectiva.
+Instrucciones para el desarrollo de la tarea:
+DIAGNÓSTICO DE COMUNICACIÓN EN ENTORNO LABORAL
+
+• Elegir situaciones comunicacionales de un área de trabajo o de manera general que se suscitan en la empresa donde labora.
+
+
+• Determinar aquellas falencias comunicacionales que se presentan y los motivos por los que se suscitan. Explicar con detalle.
+
+
+• Describir los ruidos y contextos que se presentan, basado en la información del proceso de comunicación ya revisado.
+
+
+• Describir cómo son las formas de comunicación que se desarrollan, con sus aciertos y desatinos; se recomienda que se describa cada uno de los elementos revisados para que la descripción sea minuciosa.
+
+
+• Presentar propuesta de mejora, con descripción de objetivos, estrategia y tiempos en los que se podrían desarrollar.
+
+
+• El informe deberá ser redactado de forma corrida, cuidando que las ideas sean completas y libres de cualquier tipo de error (redacción, ortografía, puntuación).
+
+• Consulte la rúbrica de evaluación para conocer los criterios con los que tu actividad será evaluada.
+
+
+
+/*rúbrica*/
+
+Identificación de Situaciones
+25 % de la calificación total
+
+Sobresaliente
+Excelente: El estudiante identifica con precisión las situaciones comunicacionales relevantes para el área de trabajo, cubriendo tanto contextos internos como externos y vinculando cada situación con impactos claros en la eficiencia y el clima laboral.
+
+25
+Competente
+Competente: Se identifican las principales situaciones comunicacionales, con ejemplos claros, aunque pueden faltar casos menos comunes o matices contextuales. Se justifica su relevancia para el proceso organizacional.
+
+18,75
+Aceptable
+Aceptable: Se mencionan algunas situaciones comunicacionales, pero la selección puede ser incompleta o genérica, sin vinculación explícita a contextos reales de la empresa.
+
+12,5
+Insuficiente
+Insuficiente: Las situaciones comunicacionales no quedan claras o son superficiales, sin conexión con la realidad organizacional ni con objetivos de mejora.
+
+6,25
+Análisis de Falencias
+25 % de la calificación total
+
+Sobresaliente
+Excelente: El análisis de falencias es profundo, describe causas raíz, diferentes niveles de ruido y presenta un listado detallado de motivos que generan problemas de comunicación.
+
+25
+Competente
+Competente: Identifica falencias principales y sus causas, explicando con ejemplos, pero podría profundizar más en las fuentes y en su impacto.
+
+18,75
+Aceptable
+Aceptable: Se mencionan falencias pero de forma general, sin describir causas o efectos con suficiente claridad.
+
+12,5
+Insuficiente
+Insuficiente: Falencias mal descritas o ausentes, con poco o ningún análisis de causas y consecuencias.
+
+6,25
+Descripción de Comunicaciones
+25 % de la calificación total
+
+Sobresaliente
+Excelente: Describe las formas de comunicación con todos los elementos (emisor, mensaje, canal, receptor, retroalimentación, contexto) y evalúa aciertos y errores con ejemplos precisos.
+
+25
+Competente
+Competente: Describe varias formas de comunicación y señala aciertos y desatinos, aunque puede faltar una revisión minuciosa de cada elemento.
+
+18,75
+Aceptable
+Aceptable: Describe al menos algunas formas de comunicación, pero la descripción carece de detalle en los elementos clave y su impacto.
+
+12,5
+Insuficiente
+Insuficiente: Descripción incompleta o errónea de las formas de comunicación, sin análisis de los elementos o de las consecuencias.
+
+6,25
+Propuesta de Mejora
+25 % de la calificación total
+
+Sobresaliente
+Excelente: Presenta una propuesta de mejora clara y accionable, con objetivos específicos, estrategias definidas y un cronograma realista, incluyendo responsables y métricas.
+
+25
+Competente
+Competente: Propone mejoras plausibles con objetivos y estrategias, pero el plan podría estar menos detallado en tiempos o indicadores de éxito.
+
+18,75
+Aceptable
+Aceptable: Propone una mejora, pero es vaga, sin objetivos claros, sin estrategia definida o sin cronograma verificable.
+
+12,5
+Insuficiente
+Insuficiente: No ofrece una propuesta de mejora viable o no se define un plan de acción.
