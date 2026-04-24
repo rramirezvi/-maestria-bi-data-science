@@ -173,14 +173,24 @@ Atenas y Melos son dos culturas organizacionales completamente distintas. Eso ha
 
 ## LO QUE LA PROFE PROBABLEMENTE VA A EVALUAR
 
-1. **¿Podés identificar qué teoría explica cada momento de la negociación?**
-   → Practicar nombrar la teoría + el concepto específico mientras negociás
+**1. ¿Qué teoría explica mejor esta negociación?**
 
-2. **¿Entendés la incertidumbre de ambos lados?**
-   → TRI es la columna vertebral del caso
+La TRI. Atenas no ataca de inmediato — manda negociadores primero. Lo hace porque tiene incertidumbre conductual: no sabe si Melos va a resistir o ceder, y no sabe si Esparta va a intervenir. Melos también tiene incertidumbre: no sabe si Esparta llega a tiempo ni qué tan lejos está dispuesta a llegar Atenas. Los dos usan la comunicación exactamente como dice Berger: como vehículo para reducir esa incertidumbre antes de actuar.
 
-3. **¿Podés explicar por qué Melos rechaza la propuesta ateniense en términos de TPS?**
-   → Ratio coste/recompensa desfavorable + identidad cultural (TCO)
+---
 
-4. **¿Identificás el quebranto y quién lo comete?**
-   → Atenas quiebra la expectativa de neutralidad → TQE
+**2. ¿Cuál es la incertidumbre de cada lado?**
+
+Atenas tiene incertidumbre cognitiva sobre las intenciones de Melos (¿va a negociar o prefiere morir?) y conductual sobre Esparta (¿va a romper la paz de Nicias para defender a Melos?). Melos tiene incertidumbre cognitiva sobre los límites reales de Atenas (¿realmente van a destruir la isla?) y conductual sobre si Esparta llega antes de que sea tarde. La negociación es el intento de ambos de reducir esa tensión.
+
+---
+
+**3. ¿Por qué Melos rechaza la propuesta según la TPS?**
+
+Porque el ratio coste/recompensa es desfavorable. Las recompensas de unirse son paz y protección. Pero los costos son pagar tributo anual, entregar hombres y barcos, y cambiar su sistema de gobierno oligárquico que llevan 700 años construyendo. Eso último no es solo un costo político — es identitario. Desde la TPS, la relación entre Atenas y Melos nunca pasó de la etapa de orientación: nunca hubo auto-revelación, nunca hubo confianza. No existe la profundidad necesaria para que Melos acepte ese nivel de entrega.
+
+---
+
+**4. ¿Qué quebranto ocurre y quién lo comete?**
+
+Atenas comete el quebranto. Melos mantuvo su neutralidad durante toda la primera fase de la guerra — esa era la expectativa establecida. Al rodear la isla con 38 barcos, Atenas rompe esa expectativa de forma total. Melos evalúa ese quebranto como negativo porque su territorio primario — la isla, su independencia, su forma de gobierno — está siendo invadido. Eso activa el umbral de amenaza: el Consejo de Mayores convoca de emergencia, envían un mensajero a Esparta, mandan delegados a negociar. Todo eso es la respuesta al quebranto.
